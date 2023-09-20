@@ -6,4 +6,4 @@ This is a repository created by *Alan Morillo*
 
 Run this command to execute the application:
 
-'main.py'
+'python main.py'
